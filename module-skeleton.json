@@ -1,0 +1,15 @@
+{
+  "repository": "module-billing-cpanel-dart-desktop",
+  "capabilityKey": "liberusoftware/billing-cpanel",
+  "presentation": "dart-desktop",
+  "package": "module_billing_cpanel_dart_desktop",
+  "foundation": "module-boilerplate-dart-desktop",
+  "foundationCommit": "5ccb3f077d7279dad684f2aa24e4c9d27f0d1246",
+  "canonicalPlan": "projects/billing/nextjs/module-billing-cpanel.md",
+  "presentationPlan": "projects/billing/features/module-billing-cpanel.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "billing"
+  ]
+}
